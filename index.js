@@ -14,6 +14,7 @@ exports = () => {
         name: 'Matheus Genteluci',
         age,
         role: 'Junior Software Developer',
+        from: 'Rio de Janeiro - Brazil',
     };
 
     return me;
